@@ -1,0 +1,39 @@
+{
+    "enabled": true,
+    "format": " ({mapName})",
+    "excludeMarkedKeys": false,
+    "excludeJunkKeys": true,
+    "debug": false,
+    "locales": ["ru"],
+    "colorCoding": {
+        "enabled": true,
+        "changeMarkedKeysBackground": false,
+        "backgroundColors": {
+            "56f40101d2720b2a4d8b45d6": "blue",
+            "55f2d3fd4bdc2d5f408b4567": "grey",
+            "5714dbc024597771384a510d": "violet",
+            "5b0fc42d86f7744a585f9105": "tracerYellow",
+            "5704e4dad2720bb55b8b4567": "tracerRed",
+            "5704e5fad2720bc05b8b4567": "red",
+            "5704e554d2720bac5b8b456e": "orange",
+            "5704e3c2d2720bac5b8b4567": "green",
+            "5714dc692459777137212e12": "tracerGreen",
+            "junkKeys": "black"
+        }
+    },
+    "maps": {
+        "56f40101d2720b2a4d8b45d6": "Customs",
+        "55f2d3fd4bdc2d5f408b4567": "Factory",
+        "5714dbc024597771384a510d": "Interchange",
+        "5b0fc42d86f7744a585f9105": "Laboratory",
+        "5704e4dad2720bb55b8b4567": "Lighthouse",
+        "5704e5fad2720bc05b8b4567": "Reserve",
+        "5704e554d2720bac5b8b456e": "Shoreline",
+        "5704e3c2d2720bac5b8b4567": "Woods",
+        "5714dc692459777137212e12": "Streets of Tarkov"
+    },
+    "keyTypes": {
+        "mechanical": "5c99f98d86f7745c314214b3",
+        "keycard": "5c164d2286f774194c5e69fa"
+    }
+}
