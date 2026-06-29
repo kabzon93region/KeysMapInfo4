@@ -31,10 +31,10 @@ python CURSORAIMODING/tools/publish/publish_github_release.py KeysMapInfo4 --cre
 
 Прикрепить zip (только игровые файлы, без INSTALL.md):
 
-`\\Servant\data\Games\EscapeFromTarkov4\CURSORAIMODING\releases\KeysMapInfo4_(server_only)_v1.3.0_2026-06-28.zip`
+`\\Servant\data\Games\EscapeFromTarkov4\CURSORAIMODING\releases\KeysMapInfo4_(server_only)_v1.3.0_2026-06-29.zip`
 
 ```powershell
-gh release create v1.3.0 "\\Servant\data\Games\EscapeFromTarkov4\CURSORAIMODING\releases\KeysMapInfo4_(server_only)_v1.3.0_2026-06-28.zip" ^
+gh release create v1.3.0 "\\Servant\data\Games\EscapeFromTarkov4\CURSORAIMODING\releases\KeysMapInfo4_(server_only)_v1.3.0_2026-06-29.zip" ^
   --title "Keys Map Info 4 v1.3.0" ^
   --notes-file CHANGELOG.md
 ```
